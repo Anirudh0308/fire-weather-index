@@ -1,0 +1,9 @@
+pandas>=1.5
+numpy>=1.24
+scikit-learn>=1.2
+joblib>=1.2
+matplotlib 
+
+# Optional - useful for notebooks and plotting
+jupyterlab>=4.0
+seaborn>=0.12

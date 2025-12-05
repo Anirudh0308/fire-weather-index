@@ -1,0 +1,1 @@
+{"shape": [243, 15], "columns": ["day", "month", "year", "Temperature", "RH", "Ws", "Rain", "FFMC", "DMC", "DC", "ISI", "BUI", "FWI", "Classes", "target"], "classes": {"fire": 137, "not fire": 106}}
