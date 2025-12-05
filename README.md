@@ -58,7 +58,7 @@ Install backend (API) requirements:
 ```
     uvicorn main:app --reload
     
-    python -m uvicorn main:app --reload --port 8001
+    python -m uvicorn main:app --reload --port 8000
 ```
 
 
